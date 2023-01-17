@@ -1,0 +1,10 @@
+#counterLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+#increase,#decrease,#reset {
+    padding-right: 400px;
+    text-align: center;
+}
